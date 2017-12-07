@@ -6,3 +6,6 @@ Github is pretty cool
 Adding lines to test the clone works
 
 check and added something else
+
+
+Testing making changes from home computer
